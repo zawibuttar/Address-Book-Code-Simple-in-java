@@ -1,0 +1,10 @@
+Hafiz,Lahore,03234567890
+Alice,New York,1234567890
+John,Dallas,9876543210
+Emma,Sydney,6754890213
+Robert,London,8901234567
+Maria,Paris,4567890123
+Ahmed,Karachi,2345678901
+Sara,Toronto,7890123456
+Daniel,Mumbai,5678901234
+Sophia,Beijing,9012345678
